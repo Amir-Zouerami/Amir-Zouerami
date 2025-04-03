@@ -1,11 +1,11 @@
 ### Hey There Fellow Devs 👋🛹
 
-Hi, I'm Amir! I'm a full stack web developer and *LOOVVE* unpaid open-source.
+Hi, I'm Amir! I'm a full stack software engineer and *LOOVVE* unpaid open-source.
 I have had the experience of working with a number of different web technologies I won't bore you with.
 
 During my years, I have been mainly dealing with:
 
-- TypeScript & JavaScript (and their runtimes)
+- TypeScript & JavaScript (and their runtimes, frameworks, etc.)
 - React & Next.js
 - PostgreSQL & Redis
 - Microservices
